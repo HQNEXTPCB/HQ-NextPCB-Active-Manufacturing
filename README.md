@@ -33,8 +33,10 @@ Click the "Place Order" button to generate Gerber and NC drill files and upload 
 Everything is in sync, so no additional adjustments are required. Of course, you are free to change the settings on the website and then proceed to order.
 
 ## Installation
-Download the latest release ZIP file from **reserved for package** then within KiCad, open the "Plugin and Content Manager" from the main window. Finally, install the ZIP file using "Install from File..." at the bottom of the window.
-![image](https://github.com/HubertHQH/HQ-NextPCB/assets/125419974/97ef0ca3-380e-4f6f-a14b-6960271118fc)
+Open the "Plugin and Content Manager" from the main window. Click "Manage" and add the plugin repository: https://raw.githubusercontent.com/HQNEXTPCB/HQNEXTPCB-kicad-addone-repository/main/repository.json
+![image](https://github.com/HubertHQH/HQ-NextPCB/assets/125419974/9eab30a3-de23-4e1d-900d-e9d89ad397f1)
+Switch to the repository, install and apply pending changes:
+![image](https://github.com/HubertHQH/HQ-NextPCB/assets/125419974/4910fef3-e984-4fa4-a889-37dae5d5e300)
 
 ### About HQ NextPCB
 HQ NextPCB specializes in reliable multilayer PCB manufacture and assembly, and like KiCad, our goal is to enable engineers to build tomorrow's electronics. NextPCB is working with KiCad to provide smart tools to simplify the progression from design to physical product. With 3 major factories catering to prototyping, mass production and PCB assembly, and over 15 years of engineering expertise, NextPCB believes our industrial experience will prove invaluable to KiCad users and the PCB design community.
